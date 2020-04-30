@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Selenium" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_Europe_B13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_Europe_EU2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/summer-2019-europe-cucumber-selenium" vcs="Git" />
+  </component>
+</project>
